@@ -1,0 +1,6 @@
+bin/
+*.log
+.env
+.DS_Store
+.worktrees/
+worktrees/
